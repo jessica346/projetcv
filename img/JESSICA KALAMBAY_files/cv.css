@@ -1,0 +1,450 @@
+body{
+    background-color: #ffbd4a;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.container{
+    width: 95%;
+    border: none;
+    margin:0px auto;
+    background-color: #fff5e7 ;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    padding-bottom: 100px ;
+}
+.image img{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.verticale{
+    width: 10px;
+    height: 43px;
+    background-color: #ffbd4a ;
+    margin-top: -200px ;
+    margin-left: 500px;
+    border: none;
+}
+.nom{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: -75px;
+    margin-left: 520px;
+    line-height: 40px
+}
+.presentation span{
+    color: #ef5a6b;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 520px;
+}
+.presentation img{
+    width: 15px;
+    height: 15px;
+}
+.presentation ul{
+    list-style-type: none;
+    margin-left: 480px;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+.partie1{
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #ffbd4a;
+    height: 3px;
+    border: none;
+}
+.icone{
+    width: 28px;
+    height:23px;
+  
+}
+.titre{
+    margin-left: 150px;
+    margin-top: 17px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ef5a6b ;
+}
+.detail p{
+    text-align: center;
+    margin-right: 750px;
+    margin-left: 18px;
+    line-height: 40px;
+    font-weight: bold;
+}
+.detail span{
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 168px;
+    line-height: 40px;
+}
+.detail hr{
+    margin-left: 170px;
+    margin-right: 910px;
+    height: 2px;
+    background-color: #ffbd4a;
+    border: none;
+}
+.separate{
+    margin-top: 15px;
+    margin-left: 90px;
+    margin-right: 750px;
+    background-color: #ffbd4a;
+    height: 2px;
+    border: none;
+}
+.separates{
+    margin-top: 25px;
+    margin-left: 90px;
+    margin-right: 750px;
+    background-color: #ffbd4a;
+    height: 2px;
+    border: none;
+}
+.liste {
+    margin-left: 70px;
+    margin-top: 20px;    
+    line-height: 40px;
+}
+.partie2{
+    margin-top: 70px;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #ffbd4a;
+    height: 3px;
+    border: none;
+}
+.basdepage .icone{
+    margin-left: 250px;
+    margin-top: 5px;
+}
+.basdepage{
+    margin-left: -110px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ef5a6b ;
+}
+.avantder{
+    margin-top: -709px;
+    margin-left: 600px;
+    line-height: 40px;
+
+}
+.dernier{
+    margin-top: 15px;
+    margin-left: 620px;
+    line-height: 40px;
+}
+.titre2{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ef5a6b ;
+    margin-left: 130px;
+    margin-top: -10px;
+}
+.active{
+    margin-top: 10px;
+}
+.milieu{
+    height: 3px;
+    background-color: #ffbd4a;
+    margin-left: 570px;
+    margin-right: 90px;
+    margin-top: 30px;
+    border: none;
+}
+.active1{
+    margin-top: 20px;
+    line-height: 40px;
+}
+.milieu{
+    height: 2px;
+    background-color: #ffbd4a;
+    margin-left: 570px;
+    margin-right: 90px;
+    margin-top: 30px;
+    border: none;
+}
+.cercle li{
+    display: inline-block;
+    background-color: #ef5a6b;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+}
+.cercle .niveau{
+    background-color: black;
+}
+.cercle{
+    display: inline;
+}
+.laverticale{
+    width: 3px;
+    height: 687px;
+    background-color: #ffbd4a ;
+    margin-top: -653px ;
+    margin-left: 500px;
+    border: none;
+}
+@media screen and (max-width:929px){
+    body{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .container{
+        width: 95%;
+        font-size: 12px;
+        padding-bottom: 100px ;
+    }
+    .image img{
+        width: 150px;
+        height:150px;
+        border-radius: 50%;
+        margin-left: 130px;
+        margin-top: 30px;
+    }
+    .verticale{
+        width: 10px;
+        height: 33px;
+        margin-top: -160px ;
+        margin-left: 400px;
+        border: none;
+    }
+    .nom{
+        font-size: 20px;
+        margin-top: -50px;
+        margin-left: 420px;
+        line-height: 15px
+    }
+    .presentation span{
+        color: #ef5a6b;
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 420px;
+    }
+    .presentation img{
+        width: 12px;
+        height: 12px;
+    }
+    .presentation ul{
+        list-style-type: none;
+        margin-left: 380px;
+        line-height: 30px;
+        letter-spacing: 1px;
+    }
+    .partie1{
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 10px;
+    }
+    .titre{
+        margin-left: 95px;
+        margin-top: 15px;
+        font-size: 18px;
+    }
+    .detail p{
+        text-align: center;
+        margin-right: 540px;
+        line-height: 30px;
+        font-weight: bold;
+    }  
+    .detail hr{
+        margin-left: 140px;
+        margin-right: 660px;
+        height: 2px;
+    }
+    .detail span{
+        text-align: center;
+        margin-right: 100px;
+        margin-left: 120px;
+        line-height: 40px;
+    }
+    .liste {
+        margin-left: 30px;  
+        line-height: 30px;
+    }
+    .separate{
+        margin-top: 15px;
+        margin-left: 50px;
+        margin-right: 540px;
+        background-color: #ffbd4a;
+        height: 2px;
+        border: none;
+    }
+    .separates{
+        margin-top: 25px;
+        margin-left: 50px;
+        margin-right: 540px;
+        background-color: #ffbd4a;
+        height: 2px;
+        border: none;
+    }
+    .icone{
+        width: 25px;
+        height:20px;
+      
+    }
+    .partie2{
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 10px;
+    }
+    .basdepage{
+        font-size: 10px;
+        margin-left: -250px;
+        margin-right: -290px;
+    }
+    .avantder{
+        margin-top: -590px;
+        margin-left: 470px;
+        line-height: 30px;
+    }
+    .titre2{
+        font-size: 18px;
+        margin-left: 100px;
+        margin-right: 8px;
+        margin-top: 40px;
+    }
+
+    .dernier{
+        margin-top: -35px;
+        margin-left: 490px;
+    }
+    .milieu{
+        margin-left: 480px;
+        margin-right: 50px;
+        margin-top: 10px;
+    }
+    .active1{
+        margin-top: 10px;
+        line-height: 30px;
+    }
+
+    .laverticale{
+        width: 3px;
+        height: 532px;
+        margin-top: -492px ;
+        margin-left: 400px;
+    }
+    .cercle li{
+       
+        height: 10px;
+        width: 10px;
+        
+    }
+}
+
+@media screen and (max-width:365px){
+    body{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .container{
+        width: 88%;
+        margin-left: 20px;
+        font-size: 10px;
+    } 
+    .image img{
+        width: 95px;
+        height:95px;
+        border-radius: 50%;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+    .nom{
+        font-size: 11px;
+        margin-top: -28px;
+        margin-left: 125px;
+        line-height: 10px
+    }
+    .presentation span{
+        color: #ef5a6b;
+        font-size: 9px;
+        font-weight: bold;
+        margin-left: 128px;
+    }
+    .verticale{
+        width: 5px;
+        height: 15px;
+        margin-top: -90px ;
+        margin-left: 117px;
+        border: none;
+    }
+    .presentation img{
+        width: 10px;
+        height: 10px;
+    }
+    .presentation ul{
+        list-style-type: none;
+        margin-left: 80px;
+        font-size: 9px;
+        margin-right: -50px;
+    }
+    /* .titre{
+        text-align: center;
+        margin-left: 0px;
+    }
+    .detail p{
+        text-align: center;
+        margin-right: 10px;
+        line-height: 20px;
+    }
+    .detail hr{
+        margin-left: 120px;
+        margin-right: 112px;
+        height: 2px;
+    }
+    .detail span{
+        text-align: center;
+        margin-left: 105px;
+    }
+    .separate{
+        margin-top: 0px;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    .liste{
+        
+        margin-left: 3px;
+    }
+    .separates{
+        margin-top: 0px;
+        margin-right: 40px;
+        margin-left: 40px;  
+    }
+    .titre2{
+        margin-left: 0px;
+        margin-right: -100px;
+    } */
+    .education{
+
+    }
+    .achievements{
+
+    }
+    .logiciel{
+
+    }
+    .basdepage{
+
+    }
+    .avantder{
+
+    }
+    .dernier{
+
+    }
+    .active1{
+        
+    }
+
+}
